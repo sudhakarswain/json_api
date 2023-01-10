@@ -8,5 +8,5 @@ def connection():
         database="employe_json")
     return connection
 
-
-#edit by sudhakar
+#this is database connection
+#helo moto
